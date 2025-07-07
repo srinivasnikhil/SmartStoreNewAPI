@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SmartStoreNew.Core\SmartStoreNew.Core.csproj" />
+    <ProjectReference Include="..\SmartStoreNew.DAL\SmartStoreNew.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
