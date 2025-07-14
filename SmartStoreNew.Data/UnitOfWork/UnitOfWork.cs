@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SmartStoreNew.Data.UnitOfWork
 {
-    internal class UnitOfWork : IUnitOfWork
+    public class UnitOfWork : IUnitOfWork
     {
     }
 }
